@@ -1,1 +1,1 @@
-# NTU_OS_24SPRING
+2024 spring operating systems programming assignments @CSIE 3310
